@@ -27,15 +27,15 @@ title: Aspiring Business Analyst | Applied Statistics Major
 education:
   - George Mason University, BS in Applied Statistics
   - Minors: Criminology & Mathematics
-interests:
+Interests:
   - Data Analytics
-  - Social Impact
+  - Food and Travel
   - Pacific Islander Community Advocacy
-currently_learning:
+Tools I am currently Learning:
   - Advanced SQL
   - Power BI
   - Predictive Modeling
-tools_i_use:
+Tools I have Expereince with:
   - Python, R, SQL
   - Tableau, SPSS
   - Git & GitHub
