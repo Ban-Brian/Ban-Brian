@@ -1,22 +1,42 @@
 <div align="center">
-  <h1>Hi there, I'm Brian Butler <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h1>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" alt="Pronouns" />
+  <h1>Hi there, I'm Brian Butler 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving Hand"/>
+  </h1>
+  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" alt="Pronouns"/>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/linkedin.png" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Ban-Brian"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/github.png" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://ban-brian.github.io"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/portfolio.png" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR-USERNAME"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/leetcode.png" alt="LeetCode" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/brian-butler-18036b33b/">
+    <img width="30" height="30"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linkedin.svg"
+         alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Ban_Brian/">
+    <img width="30" height="30"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/leetcode.svg"
+         alt="LeetCode"/>
+  </a>
 </p>
 
-<div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Applied Statistics Major | Aspiring Business Analyst | Fairfax, VA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></h3>
-</div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ban-Brian"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ban-Brian&style=flat-square" /></a>
-</p>
+## About Me
+
+```yaml
+name: Brian Butler
+role: Aspiring Business Analyst
+education:
+  - George Mason University, BS in Applied Statistics (Expected May 2027)
+  - Minors: Criminology & Mathematics
+location: Fairfax, VA
+contact:
+  email: butlerbrian67@gmail.com
+  phone: 619-866-5916
+learning:
+  - Advanced SQL techniques
+  - Power BI dashboards
+  - Time-series forecasting
 
 <h5 align="center">
   <i>“Turning questions into data, and data into impact.”</i>
