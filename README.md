@@ -23,7 +23,7 @@
 </h5>
 
 <br />
-<img align="right" height="270px" width="450px" alt="Data GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="Data Visualization GIF" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" />
 <p align="center">
   <h3>Data enthusiast, researcher, and community advocate.</h3>
 </p>
