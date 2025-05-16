@@ -4,12 +4,12 @@
 </div>
 
 <p align="center">
-  <!-- LinkedIn and LeetCode Icons with Updated Links -->
-  <a href="https://www.linkedin.com/in/brian-butler-18036b33b/">
-    <img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/icons/linkedin.png" alt="LinkedIn"/>
+  <!-- Updated LinkedIn and LeetCode Icons with Simple Icons -->
+  <a href="https://www.linkedin.com/in/brian-butler-18036b33b/" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="filter: invert(34%) sepia(84%) saturate(1156%) hue-rotate(179deg) brightness(96%) contrast(101%);"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/u/Ban_Brian/">
-    <img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/icons/leetcode.png" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Ban_Brian/" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" style="filter: invert(47%) sepia(99%) saturate(469%) hue-rotate(358deg) brightness(95%) contrast(90%);"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 </h5>
 
 <br />
-<img align="right" height="270px" width="450px" alt="Data Visualization" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"/>
+<img align="right" height="270px" width="450px" alt="Coding" src="https://media.giphy.com/media/Ll22OhmlzQQVI/giphy.gif"/>
 
 <p align="center">
   <h3>Data enthusiast, researcher, and community advocate.</h3>
