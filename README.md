@@ -1,80 +1,82 @@
 <div align="center">
-  <!-- Animated Dark-Theme Header -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Brian%20Butler&fontSize=60&theme=dracula" 
-    alt="Header Banner"/>
+  <h1>Hi there, I'm Brian Butler <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h1>
+  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" alt="Pronouns" />
 </div>
 
-<div align="center">
-  <!-- Contact & Social Links (Dark Icons) -->
-<h2 align="left">Technical Skills & Tools</h2>
-<p align="left">
-  <!-- Python Badge -->
-  <img 
-    src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
-    alt="Python Badge"/><!-- white logo ensured for dark mode :contentReference[oaicite:2]{index=2} -->
-
-  <!-- R Badge -->
-  <img 
-    src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" 
-    alt="R Badge"/><!-- uses Simple-Icons slug ‘r’, logoColor overrides to white :contentReference[oaicite:3]{index=3} -->
-
-  <!-- SQLite Badge -->
-  <img 
-    src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
-    alt="SQLite Badge"/><!-- readable white on dark :contentReference[oaicite:4]{index=4} -->
-
-  <!-- Tableau Badge -->
-  <img 
-    src="https://img.shields.io/badge/-Tableau-452458?style=for-the-badge&logo=tableau&logoColor=white" 
-    alt="Tableau Badge"/><!-- dark-mode friendly :contentReference[oaicite:5]{index=5} -->
-
-  <!-- Google Sheets Badge -->
-  <img 
-    src="https://img.shields.io/badge/-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" 
-    alt="Google Sheets Badge"/><!-- slug ‘googlesheets’ per Simple-Icons :contentReference[oaicite:6]{index=6} -->
-
-  <!-- SPSS (IBM) Badge -->
-  <img 
-    src="https://img.shields.io/badge/-SPSS-002D9C?style=for-the-badge&logo=ibm&logoColor=white" 
-    alt="SPSS Badge"/><!-- IBM slug with white logo :contentReference[oaicite:7]{index=7} -->
-
-  <!-- Git Badge -->
-  <img 
-    src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
-    alt="Git Badge"/><!-- consistent white logo :contentReference[oaicite:8]{index=8} -->
-
-  <!-- VS Code Badge -->
-  <img 
-    src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" 
-    alt="VS Code Badge"/><!-- slug ‘visualstudiocode’ per Shields.io :contentReference[oaicite:9]{index=9} -->
-
-  <!-- Profile Views Counter -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=Ban-Brian&style=flat-square&color=555555" 
-    alt="Profile Views"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/linkedin.png" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Ban-Brian"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/github.png" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://ban-brian.github.io"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/portfolio.png" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR-USERNAME"><img height="30" src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/leetcode.png" alt="LeetCode" /></a>
 </p>
 
+<div align="center">
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Applied Statistics Major | Aspiring Business Analyst | Fairfax, VA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></h3>
 </div>
 
----
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Ban-Brian"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ban-Brian&style=flat-square" /></a>
+</p>
 
-## About Me  
-```yaml
-name: Brian Butler
-role: Aspiring Business Analyst
-education:
-  - George Mason University, BS in Applied Statistics (May 2027)
-  - Minors: Criminology, Mathematics
-location: Fairfax, VA
-contact:
-  email: butlerbrian67@gmail.com
-  phone: 619-866-5916
-tools:
-  - Python, R, SQL, SPSS
-  - Tableau, Excel, Google Sheets
-  - Git, GitHub, VS Code, Jupyter
-learning:
-  - Advanced SQL techniques
-  - Power BI dashboards
-  - Time-series forecasting
+<h5 align="center">
+  <i>“Turning questions into data, and data into impact.”</i>
+</h5>
+
+<br />
+<img align="right" height="270px" width="450px" alt="Data GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3>Data enthusiast, researcher, and community advocate.</h3>
+</p>
+
+- 🎓 Bachelor of Science in Applied Statistics (George Mason University, May 2027)  
+- 📊 Proficient in Python, R, SQL, SPSS, Tableau, Excel  
+- 🔬 Experienced in A/B testing, experimental design, and predictive modeling  
+- 🌱 Currently learning advanced SQL techniques & Power BI  
+- 🤝 Member of the American Statistical Association  
+
+<p align="center">
+  <h4>Featured Projects</h4>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ban-Brian/branching-acceptance">Branching Out: Acceptance vs. Campuses</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Ban-Brian/transit-forecast">Transit Demand Forecast</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Ban-Brian/va-crime-income">Crime vs. Income in VA</a>
+</p>
+
+<br />
+
+### - Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/ibm/ibm-original.svg" alt="spss" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/DevIcon/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin: 4px;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ban-Brian&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">
+  🎀 Contributions, 🔥 issues, and 🥮 feature requests are always welcome!  
+  💙 If you like my work, give it a ⭐ and share it!
+</p>
+
+<p align="center">Made with ❤️ in Fairfax, VA</p>
+
+<h1 align="center">⚡️<i>Stay curious!</i>⚡️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ban-Brian/Ban-Brian/master/Bottom.svg" alt="Footer" />
+</p>
