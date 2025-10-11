@@ -35,7 +35,7 @@
   <h3>Data enthusiast, researcher, and community advocate.</h3>
 </p>
 
-- 🎓 Bachelor of Science in Applied Statistics (George Mason University, May 2027)  
+- 🎓 Bachelor of Science in Mathmatical Statistics (George Mason University, May 2027)  
 - 📊 Proficient in Python, R, SQL, SPSS, Tableau, Excel  
 - 🔬 Experienced in A/B testing, experimental design, predictive modeling  
 - 🌱 Currently learning advanced SQL techniques & Power BI  
