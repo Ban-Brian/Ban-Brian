@@ -14,7 +14,7 @@
 
 <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Star"/>  
-    Applied Statistics Major | Aspiring Business Analyst | Fairfax, VA  
+    Mathmatical Statistics Major | Aspiring Business Analyst | Fairfax, VA  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Star"/></h3>
 </div>
 
