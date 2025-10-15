@@ -12,7 +12,7 @@ I’m a data enthusiast with a passion for turning complex questions into action
 - Bachelor of Science in **Mathematical Statistics** (George Mason University, May 2027)  
 - Proficient in **Python, R, SQL, SPSS, Tableau, Excel**  
 - Experienced in **A/B testing, experimental design, predictive modeling**  
-- Currently learning **advanced SQL techniques & Power BI**  
+- Currently learning **advanced SQL techniques & Machine Learning**  
 - Member of the **American Statistical Association**  
 
 ---
